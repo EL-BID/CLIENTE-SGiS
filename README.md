@@ -9,7 +9,7 @@ Esta herramienta digital forma parte del catálogo de herramientas del **Banco I
   
 ![SGiS](https://github.com/EL-BID/CLIENTE-SGiS/blob/master/src/assets/iconos/android-chrome-192x192.png)
   
-
+  
 ### Descripción y contexto
 
 Salud Mesoamérica, ME-G1001 & ME-G1004
