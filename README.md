@@ -250,9 +250,9 @@ Para hacer el correcto uso del Cliente Web para SGiS, previamente tienen que ins
 ---
 
 
-La Documentación de Soporte y Uso del software se encuentra licenciada bajo Creative Commons IGO 3.0 Atribución-NoComercial-SinObraDerivada (CC-IGO 3.0 BY-NC-ND) [LICENCIA.md](https://github.com/EL-BID/CLIENTE-SGiS/blob/master/LICENSE.md)
+La Documentación de Soporte y Uso del software se encuentra licenciada bajo Creative Commons IGO 3.0 Atribución-NoComercial-SinObraDerivada (CC-IGO 3.0 BY-NC-ND).
 
-  
+El código de este repo usa la [ Licencia AM-331-A3](LICENSE.md).
 
 ## Limitación de responsabilidades
 
