@@ -1,6 +1,5 @@
 ## AM-331-A3 Licencia de Software 
 Effective: April 2018
-Contenido de la página
 
 
 "Copyright © [2018]. Banco Interamericano de Desarrollo ("BID"). Uso autorizado."
