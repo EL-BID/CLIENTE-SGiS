@@ -4,8 +4,8 @@ Esta herramienta digital forma parte del catálogo de herramientas del **Banco I
 ## Cliente Web SGiS (Sistema de Gestión de Incidencias en Salud).
 
 [![Build Status](https://travis-ci.com/EL-BID/CLIENTE-SGiS.svg?branch=master)](https://travis-ci.org/EL-BID/CLIENTE-SGiS)
-[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/CLIENTE-SGiS/readme?useReferer)](https://github.com/EL-BID/CLIENTE-SGiS)
-
+![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
+![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/CLIENTE-SGiS/readme&dt=&tid=UA-4677001-16)
 
   
 ![SGiS](https://github.com/EL-BID/CLIENTE-SGiS/blob/master/src/assets/iconos/android-chrome-192x192.png)
